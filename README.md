@@ -1,6 +1,6 @@
 # etracker-app-analytics
 
-This repository privides the Android library for etracker App Analytics.
+This repository provides the Android library for etracker App Analytics.
 
 ## Installation
 
